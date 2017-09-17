@@ -19,4 +19,17 @@
 .rabbit {
   color: #7AF0B2;
   background-color: #F0ED7A;
+  padding: 50px;
+  margin: 15px;
+}
+.picture{
+  text-align: center;
+  font-style: italic;
+  font-family: fantasy;
+  font-variant-caps: small-caps;
+  font-size-adjust: auto;
+  font-size: 66px;
+  border-style: groove;
+  border-width: thick;
+  border-color: #7DF07A;
 }
