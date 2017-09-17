@@ -29,7 +29,7 @@
   text-align: center;
   align-items: center;
 }
-.picture{
+.picture {
   text-align: center;
   font-style: italic;
   font-family: fantasy;
@@ -40,14 +40,17 @@
   border-width: thick;
   border-color: #7DF07A;
 }
-.rabbitfriend{
+.rabbitfriend {
   align-items: center;
 }
-.franz{
+.franz {
   background-color: #FF8800;
 }
-.dinosaurfacts{
-  align-items: left;
+.dinosaurfacts {
+  align-items: right;
   background-color: #D5D8DC;
   color: darkred;
+}
+ol {
+  color: orange;
 }
